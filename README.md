@@ -1,7 +1,7 @@
 # 🕵🏽 Code Archaeologist:
 
-![Last Commit](https://img.shields.io/github/last-commit/reory/code-archaeologist?cacheSeconds=60)
-![Repo Size](https://img.shields.io/github/repo-size/reory/code-archaeologist?cacheSeconds=60)
+![Last Commit](https://img.shields.io/github/last-commit/reory/code_archaeologist?cacheSeconds=60)
+![Repo Size](https://img.shields.io/github/repo-size/reory/code_archaeologist?cacheSeconds=60)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
